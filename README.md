@@ -1,4 +1,5 @@
 ### Hi!  I'm a Career Coach at Fullstack Academy.
+### ![image](https://user-images.githubusercontent.com/89159146/130332915-687e9ae0-8d3f-4f9f-b359-7f247d0f46a0.png)
 
 <!--
 **lyndabooth/lyndabooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
